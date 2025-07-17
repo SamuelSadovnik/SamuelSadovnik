@@ -1,12 +1,8 @@
 <h2 align="left">Olá, Sou o Samuel.<br>Atualmente estou estudando Analise e Desenvolvimento de Sistemas na Biopark Educação.</h2>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsadovnik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -26,8 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
-
 <div align="center">
   <a href="https://www.instagram.com/samuelmsadovnik/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
@@ -41,12 +35,8 @@
   </a>
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuelsadovnik/samuelsadovnik/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuelsadovnik/samuelsadovnik/output/pacman-contribution-graph.svg">
+<div align="center">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samuelsadovnik/samuelsadovnik/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+</div>

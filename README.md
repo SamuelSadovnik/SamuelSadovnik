@@ -1,4 +1,11 @@
-<h2 align="left">Olá, Sou o Samuel.<br>Atualmente estou estudando Analise e Desenvolvimento de Sistemas na Biopark Educação.</h2>
+<h2 align="left">Olá, Sou o Samuel.<br>🎓 Formado em Análise e Desenvolvimento de Sistemas.
+
+💻 Desenvolvedor de Software Júnior com interesse em desenvolvimento Front-end e Full Stack.
+
+Tenho experiência no desenvolvimento de aplicações utilizando JavaScript, TypeScript, React, Flutter, Node.js e NestJS, além de conhecimentos em APIs REST, bancos de dados e arquitetura de software.
+
+🚀 Atualmente busco evoluir minhas habilidades técnicas e contribuir em projetos reais, criando soluções eficientes e com boa experiência para o usuário.
+</h2>
 
 ###
 
